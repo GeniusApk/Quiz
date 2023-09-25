@@ -28,7 +28,7 @@ To get started with Flag Quiz Master, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flag-quiz-master.git
+   git clone https://github.com/in-deep-dive/Quiz
 
 
    ## 🔗 Links
