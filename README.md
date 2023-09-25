@@ -29,7 +29,7 @@ To get started with Flag Quiz Master, follow these steps:
 
    ```bash
    git clone https://github.com/in-deep-dive/Quiz
-    ```bash
+  
 
 
 
