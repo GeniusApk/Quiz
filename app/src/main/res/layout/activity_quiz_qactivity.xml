@@ -21,6 +21,7 @@
             android:id="@+id/tvquestion"
             android:layout_margin="10dp"
             android:gravity="center"
+            android:fontFamily="@font/merriweathersans_bold"
             android:textSize="22sp"
             android:textColor="#363A43"
             tools:text="What country does this flag belong to?"
